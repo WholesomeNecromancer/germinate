@@ -1,0 +1,8 @@
+{
+    "app-name": "hello-world",
+    "onefile": "true",
+    "create-dirs": [],
+    "copy-dirs": [],
+    "copy-files": [],
+    "output-dir": "."
+}
